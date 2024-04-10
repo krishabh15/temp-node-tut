@@ -13,4 +13,5 @@ Install the node_modules form just the package.json file:
 Uninstall packages:
     npm uninstall bootstrap
 
-
+GLobal Installation:
+    -> npx can be used to install packages globally
