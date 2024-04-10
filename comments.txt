@@ -1,0 +1,16 @@
+To use nodemon commands -> Ex: npm run dev // Spins up the nodemon server
+Nodemon is generally only used for the dev purposes in local. Other libraries would be used on a real server.
+Nodemon takes the changes and autorenders them.
+
+To use node commands -> Ex: npm start
+Install packages:
+    -> npm i <packagename>
+    -> npm install <packagename> -save (add it to the package.json)
+Install the node_modules form just the package.json file:
+    -> npm install
+
+
+Uninstall packages:
+    npm uninstall bootstrap
+
+
